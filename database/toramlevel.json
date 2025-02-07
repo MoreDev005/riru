@@ -1,0 +1,167 @@
+[
+ {
+  "min": 1,
+  "max": 23,
+  "desc": "Data Leveling Level 1 - 23\nMob : Lavarca (Dataran Rakau)"
+ },
+ {
+  "min": 23,
+  "max": 36,
+  "desc": "Data Leveling Level 23 - 36\nMob : Pova (Ngarai Lenogo)\nBoss : Minotaur Normal(Kuil Runtuh)"
+ },
+ {
+  "min": 36,
+  "max": 43,
+  "desc": "Data Leveling Level 36 - 43\nBoss : Minotaur Hard (Kuil Runtuh)\nMob : Bone Dragonewt (Makam Ratu : Area 1)\nMob : Pova (Ngarai Lonogo)"
+ },
+ {
+  "min": 43,
+  "max": 55,
+  "desc": "Data Leveling Level 43 - 55\nBoss : Flare Volg Normal (Lereng Merapi)\nMob : Bone Dragonewt (Makam Ratu : Area 1)"
+ },
+ {
+  "min": 55,
+  "max": 61,
+  "desc": "Data Leveling Level 55 - 61\nBoss : Boss Roga Normal (Gua Saham)\nMob : Bone Dragonewt(Makam Ratu : Area 3)"
+ },
+ {
+  "min": 61,
+  "max": 67,
+  "desc": "Data Leveling Level 61 - 67\nBoss : Flare Volg Hard (Lereng Merapi)"
+ },
+ {
+  "min": 67,
+  "max": 74,
+  "desc": "Data Leveling Level 67 - 74\nBoss : Flare Volg Nightmare (Lereng Merapi)"
+ },
+ {
+  "min": 74,
+  "max": 79,
+  "desc": "Data Leveling Level 74 - 79\nBoss : Pendekar Bertopeng Hard (Tanah Pertanian)"
+ },
+ {
+  "min": 79,
+  "max": 84,
+  "desc": "Data Leveling Level 79 - 84\nBoss : Boss Roga Nightmare (Gua Saham)\nBoss : Pendekar Bertopeng Nightmare (Tanah Pertanian)"
+ },
+ {
+  "min": 84,
+  "max": 95,
+  "desc": "Data Leveling Level 84 - 95\nBoss : Pendekar Bertopeng Nightmare (Tanah Pertaniaan)"
+ },
+ {
+  "min": 95,
+  "max": 112,
+  "desc": "Data Leveling Level 95 - 112\nMiniBoss : Don Yeti (Lembah Es Polde)\nBoss : Pendekar Bertopeng Ultimate (Tanah Pertanian)\nBoss : Elang Zambrud Nightmare (Teras Kerikil)(106)"
+ },
+ {
+  "min": 112,
+  "max": 126,
+  "desc": "Data Leveling Level 112 - 126\nBoss : Cerberus Nightmare (Mata Air Kelahiran)\nBoss : Scrader Nightmare (Situs Lembah Sihir)"
+ },
+ {
+  "min": 126,
+  "max": 130,
+  "desc": "Data Leveling Level 126 - 130\nBoss : Scrader Ultimate (Situs Lembah Sihir)\nMiniBoss : Dukun Lapin (Sungai Kegelapan)"
+ },
+ {
+  "min": 130,
+  "max": 144,
+  "desc": "Data Leveling Level 130 - 144\nBoss : Cerberus Ultimate (Mata Air Kelahiran)"
+ },
+ {
+  "min": 144,
+  "max": 151,
+  "desc": "Data Leveling Level 144 - 151\nBoss : Imitator Ultimate (Plastida: Area Terdalam)\nBoss : Imitacia Ultimate (Rumah Kegelapan : Aula Besar)\nBoss : Proto Leon Ultimate (Reruntuhan Singolare : Lantai 3)\nBoss : Ifrid Ultimate (Graben Membara : Area Terdalam)\nMiniBoss : Odelon Machina (Pabrik Demi Machina Kecil)\nMiniBoss : Jamur Super Mampus (Hutan Monster)\nMiniBoss : Comandan Golem (Mansion Lufenas : Gerbang)"
+ },
+ {
+  "min": 151,
+  "max": 161,
+  "desc": "Data Leveling Level 151 - 161\nBoss : Imitator Ultimate (Plastida: Area Terdalam)\nBoss : Imitacia Ultimate (Rumah Kegelapan : Aula Besar)\nBoss : Proto Leon Ultimate (Reruntuhan Singolare : Lantai 3)\nBoss : Ifrid Ultimate (Graben Membara : Area Terdalam)\nBoss : Venena Coenubia Hard (Istana Ultimea Tahta)\nBoss : York (Pabrik Krista Raksasa)\nMiniBoss : Comandan Golem (Mansion Lufenas : Gerbang)"
+ },
+ {
+  "min": 161,
+  "max": 178,
+  "desc": "Data Leveling Level 161 - 178\nBoss : Venena Coenubia Nightmare (Istana Ultimea Tahta)\nMiniboss : Komandan Golem (Mansion Lufenas)"
+ },
+ {
+  "min": 178,
+  "max": 181,
+  "desc": "Data Leveling Level 178 - 181\nMiniBoss : Altoblepas (Dataran Rokoko)\nBoss : Pedang Maton Ultimate (Menara Penembuz Bumi : Pintu Masuk)\nBoss : Machina Ultimea Ultimate (Akun Alun Droma)\nBoss : Ornlarf Ultimate (Istana Ultimea : Koridor)\nBoss : Gwaimol Ultimate (Penjara Cuervo : Atap)\nBoss : Seele Zauga Nightmare (Kuil Dewi Spesies)\nBoss : King Piton Nightmare (Pegunungan Elf: Kuil)\nBoss : Pilz Erozi Hard (Bongkahan Morthell : Area Terdalam)"
+ },
+ {
+  "min": 181,
+  "max": 199,
+  "desc": "Data Leveling Level 181 - 199\nBoss : Venena Coenubia Ultimate (Istana Ultimea Tahta)"
+ },
+ {
+  "min": 199,
+  "max": 203,
+  "desc": "Data Leveling Level 199 - 203\nMiniBoss : Violangkara (Bongkahan Morthel)\nBoss : Finstren Naga Kegelapan Ultimate( Kuil Naga Kegelapan)"
+ },
+ {
+  "min": 203,
+  "max": 215,
+  "desc": "Data Leveling Level 203 - 215\nBoss : Finstren Naga Kegelapan Ultimate (Kuil Naga Kegelapan)\nBoss : Mata Jahanam (Dea Ruenia)"
+ },
+ {
+  "min": 215,
+  "max": 220,
+  "desc": "Data Leveling Level 215 - 220\nBoss : Venena Metacoenubia Nightmare (Neo Plastida)\nBoss : Pyxtica Ultimate (Distrik Fractum : Area 3)\nBoss : Pilz Erozi Ultimate (Bongkahan Morthell : Area Dalam)\nBoss : Roga Ultimate (Avant Plastida: Area Terdalam)\nBoss : Kuzto Ultimate (Distrik Labilans)\nMiniBoss : Mata Jahanam (Dea Ruinea)\nMiniBoss : Ketua Bandit Gurun (Gurun Pasir Geist : Area 3)"
+ },
+ {
+  "min": 220,
+  "max": 225,
+  "desc": "Data Leveling Level 220 - 225\nBoss : Quasar Jahanam Ultimate (Padang Morga : Area Terdalam)\nBoss : Venena Metacoenubia Nightmare (Neo Plastida)\nBoss : Roga Safir Ultimate (Avant Plastida: Area Terdalam)\nBoss : Repthon Ultimate (Zona Riset Deltzon : Area Terdalam)\nBoss : Pyxtica Ultimate (Distrik Fractum : Area 3)\nBoss : Gravicep Ultimate (Distrik Recetacula)\nBoss : Kuzto Ultimate (Distrik Labilans)\nMiniBoss : Ketua Bandit Gurun (Gurun Pasir Geist : Area 3)\nMiniBoss : Mata Jahanam (Dea Ruinea)\nMiniBoss : Tappler (Reruntuhan Urban Elban)\nMiniBoss : Roh Orang Mati (Lembah Arche)"
+ },
+ {
+  "min": 225,
+  "max": 230,
+  "desc": "Data Leveling Level 225 - 230\nBoss : Venena Metacoenubia Nightmare (Neo Plastida)\nBoss : Quasar Jahanam Ultimate (Padang Morga : Area Terdalam)\nBoss : Vulture Ultimate (Padang Pasir Geist : Terdalam)\nBoss : Repthon Ultimate (Zona Riset Deltzon : Area Terdalam)\nBoss : Gravicep Ultimate (Distrik Recetacula)"
+ },
+ {
+  "min": 230,
+  "max": 240,
+  "desc": "Data Leveling Level 230 - 240\nBoss : Venena Metacoenubia Ultimate (Neo Plastida)\nBoss : Repthon Ultimate (Zona Riset Deltzon : Area Terdalam)\nBoss : Vulture Ultimate (Padang Pasir Geist : Terdalam)\nBoss : Arachidemon Ultimate (Lembah Arche)"
+ },
+ {
+  "min": 240,
+  "max": 245,
+  "desc": "Data Leveling Level 240 - 245\nBoss : Venena Metacoenubia Ultimate (Neo Plastida)\nBoss : Irestida Ultimate (Nov Diela)\nBoss : Hexter Ultimate (Hutan Rimba Penyihir)\nBoss : Bayangan Hitam Ultimate (Reruntuhan Kota Rokoko)\nMiniboss : Bullamius (Gudang Material : area 2)\nBoss : Arachidemon Ultimate (Lembah Arche)"
+ },
+ {
+  "min": 245,
+  "max": 250,
+  "desc": "Data Leveling Level 245 - 250\nBoss : Gemma Ultimate (Rawa Danau Pelarian : Ujung)\nBoss : Ferzen si Naga Batu Ultimate (Hutan Lindung :Pohon Raksasa)\nMiniboss : Blazingur(Lembah Divido)"
+ },
+ {
+  "min": 250,
+  "max": 255,
+  "desc": "Data Leveling Level 250 - 255\nBoss : Reliza Ultimate (Tepian Air Anugerah)\nBoss : Guard Golem Nightmare (Kerongkongan Manusia Naga)\nBoss : Naga Junior Zyvio Ultimate (Gudang Material : Arena)\nBoss : Naga Milisi Turba Ultimate (Prime Ramus: Desa)\nBoss : Ferzen Si Naga Batu Ultimate (Hutan Lindung : Pohon Raksasa)"
+ },
+ {
+  "min": 255,
+  "max": 260,
+  "desc": "Data Leveling Level 255 - 260\nBoss : Golem Satpam Nightmare (Kerongkongan Manusia Naga)\nBoss : Vlam si Naga Api Ultimate (Mata Air Divido)\nBoss : Naga Junior Zyvio Ultimate (Gudang Material : Arena)\nBoss : Naga Milisi Turba Ultimate (Prime Ramus: Desa)\nBoss : Naga Penyamar Mimyugon Nightmare (Zona Kemudi : Area Kokpit)"
+ },
+ {
+  "min": 260,
+  "max": 265,
+  "desc": "Data Leveling Level 260 - 265\nBoss : Naga Penyamar Mimyugon Nightmare (Zona Kemudi : Area Kokpit)"
+ },
+ {
+  "min": 265,
+  "max": 270,
+  "desc": "Data Leveling Level 265 - 270\nBoss : Zapo Hard (Kepulauan Puerta)\nMiniboss : Trus (Zona Mekanisme Penggerak)\nMiniboss : Exdocus (Tangga Ke Titik Vital)"
+ },
+ {
+  "min": 270,
+  "max": 275,
+  "desc": "Data Leveling Level 270 - 275\nBoss : Naga Penyamar Mimyugon Ultimate (Zona Kemudi : Area Kokpit)\nBoss : Naga Abu Merah Rudis Hard (Kubah Espuma: Depan Gerbang)\nMiniboss : Trus (Zona Mekanisme Penggerak)"
+ },
+ {
+  "min": 275,
+  "max": 285,
+  "desc": "Data Leveling Level 275 - 285\nBoss : Naga Penyamar Mimyugon Ultimate (Zona Kemudi : Area Kokpit)\nBoss : Zapo Nightmare (Kepulauan Puerta)\nBoss : Naga Abu Merah Rudis Nightmare (Kubah Espuma: Depan Gerbang)"
+ }
+]

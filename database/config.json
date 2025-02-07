@@ -1,0 +1,24 @@
+{
+  "botconfig": {
+    "iklan": false,
+    "authorName": "Iwan",
+    "isPublic": false,
+    "botName": "Riru",
+    "officialgc": "https://whatsapp.com/channel/0029VaVuNFoJuyAAzRGEf043",
+    "owner": [
+      "6285650875878@s.whatsapp.net",
+      "6281347421165@s.whatsapp.net"
+    ],
+    "api": "http://87.106.36.114:6279",
+    "ytlocal": false,
+    "autoclear": true
+  },
+  "grupconfig": {
+    "antitoxic": [],
+    "antilink": [],
+    "hapuslink": [],
+    "simi": [
+      "6289617221060@s.whatsapp.net"
+    ]
+  }
+}

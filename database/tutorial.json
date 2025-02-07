@@ -1,0 +1,18 @@
+*UNTUK MENAMBAH MENU BOT*
+Formula :
+.addmenu(spasi)kode akses(spasi)deskripsi menu|isi dari menu ini
+Contoh :
+.addmenu .info informasi menu|halo ini adalah contoh text info
+
+Penjelasan : 
+.info adalah kode aksesnya
+kata *informasi menu* adalah deskripsi dari menu .info
+kata *halo ini adalah contoh text info* adalah isi dari menu .info
+
+
+*UNTUK MENGHAPUS DATA MENU*
+Formula :
+.delmenu(spasi)kode akses
+
+Contoh :
+.delmenu .info

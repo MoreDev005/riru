@@ -1,0 +1,26 @@
+*📂MENU OWNER*
+*📌 Mulai Ulang [restart]*
+*📌 JS Tes Kode [run kodenya]*
+*📌 Commnad Bash [bash kodenya]*
+*📌 Tambah VIP [addvip IDGrup|jumlah hari]*
+*📌 Hapus VIP[delvip IDGrup]*
+*📌 Cek VIP [cekvip IDGrup]*
+*📌 Tambah Owner [addowner]*
+*📌 Hapus Owner [delowner]*
+*📌 Tambah Jadi Bot [addjadibot 62xxx]*
+*📌 Hapus Jadi Bot [deljadibot 62xxx]*
+*📌 Lihat List Jadi Bot [listjadibot]*
+*📌 Larang pake Bot [ban]*
+*📌 Izinkan pake Bot [delban]*
+*📌 Broadcast Pesan AllGrup [share pesannya]*
+*📌 Cek Semua VIP Grup [cekallvip]*
+*📌 Tambah Entry Menu [addmenu]*
+*📌 Hapus Emtry Menu [delmenu]*
+*📌 List Keys Menu [.menulist]*
+*📌 List Keys Dokumen [.doclist]*
+*📌 Tambah Entry Dokumen [adddoc]*
+*📌 Hapus Entry Dokumen [deldoc]*
+*📌 Acc Undangan Grup [.join]*
+*📌 Cek IP Panel [.getip]*
+*📌 Hapus Histori WA Bot [.autoclear]*
+*📌 Set Welcome [.setwelcome]*
