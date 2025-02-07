@@ -1,0 +1,150 @@
+    at EventEmitter.<anonymous> (/home/container/index.js:189:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Caught exception:  TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFileSync (node:fs:2350:5)
+    at EventEmitter.<anonymous> (/home/container/index.js:189:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Caught exception:  TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFileSync (node:fs:2350:5)
+    at EventEmitter.<anonymous> (/home/container/index.js:189:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Caught exception:  TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFileSync (node:fs:2350:5)
+    at EventEmitter.<anonymous> (/home/container/index.js:189:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Caught exception:  ReferenceError: Gradient is not defined
+    at welcome (/home/container/lib/welcome.js:14:25)
+    at EventEmitter.<anonymous> (/home/container/index.js:192:19)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+Caught exception:  ReferenceError: Gradient is not defined
+    at welcome (/home/container/lib/welcome.js:14:25)
+    at EventEmitter.<anonymous> (/home/container/index.js:192:19)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+(node:384) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+(node:411) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+JPM Berjalan 2024-09-25T16:23:16.725Z
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Menjalankan Ulang Skrip
+Berhasil Tersambung ke Whatsapp
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Berhasil Tersambung ke Whatsapp
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
+Pembersihan Chat di Mulai
+Pembersihan Chat di Mulai
+Pembersihan Chat Selesai
