@@ -3,7 +3,7 @@ const path = require("path");
 const express = require("express");
 const app = express()
 var http = require('http').Server(app);
-const port = process.env.SERVER_PORT
+const port = 3000//process.env.SERVER_PORT
 const browserpath = path.join(__dirname, "");
 
 app.use(express.static(browserpath));
